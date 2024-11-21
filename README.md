@@ -31,7 +31,8 @@ What is FTP?
   FTP, short for File Transfer Protocol, is the standard way to upload and download files from web hosting accounts.
   
   To use FTP, you'll need an FTP client. We recommend FileZilla, the most popular FTP client available for Windows,
-  MacOS and Linux. But you're free to use whatever FTP client you want, or use the FTP publishing capabilities of your website building software.
+  MacOS and Linux. But you're free to use whatever FTP client you want, or use the FTP publishing capabilities of your
+  website building software.
   
   If you don't know how to use FTP, please see the article How to upload files with FTP.
   
